@@ -1,1 +1,5 @@
-"# my-first-repo" 
+Nama : Delila Isrina Aroyo
+
+NPM : 2406405374
+
+Kelas : PBP A
